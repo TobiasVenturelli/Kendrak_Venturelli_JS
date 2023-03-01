@@ -1,0 +1,44 @@
+[
+	{
+		"precio": 20000,
+		"id": 1,
+		"title": "HEBE",
+		"thumbnailUrl": "imgs/IMG_1707.jpg"
+	},
+
+	{
+		"precio": 15000,
+		"id": 2,
+		"title": "ARIA",
+		"thumbnailUrl": "imgs/IMG_1696.jpg"
+	},
+
+	{
+		"precio": 30000,
+		"id": 3,
+		"title": "MARTINO",
+		"thumbnailUrl": "imgs/IMG_2841.PNG"
+	},
+
+	{
+		"precio": 35000,
+		"id": 4,
+		"title": "LABEL",
+		"thumbnailUrl": "imgs/IMG_8080.jpg"
+	},
+
+    {
+		"precio": 35000,
+		"id": 4,
+		"title": "ENJOY",
+		"thumbnailUrl": "imgs/IMG_4669.jpg"
+    },
+    
+    {
+		"precio": 35000,
+		"id": 4,
+		"title": "ENJOY",
+		"thumbnailUrl": "imgs/IMG_0201.JPG"
+    }
+
+]
